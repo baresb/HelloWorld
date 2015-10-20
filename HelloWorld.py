@@ -1,3 +1,6 @@
 __author__ = 'BradleyBares'
 
-print "Hello, world!"
+def write():
+    print "Hello, world!"
+
+write()
